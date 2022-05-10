@@ -103,5 +103,7 @@ for i in range(v): print("dist[",i,"] = ", dist[i]) # print distance
 ## 리트코드
 **743. Network Delay Time**
 [Network Delay Time - LeetCode](https://leetcode.com/problems/network-delay-time/)
+**1631. Path With Minimum Effort**
+[Path With Minimum Effort - LeetCode](https://leetcode.com/problems/path-with-minimum-effort/)
 
 ## 프로그래머스
